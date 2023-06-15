@@ -20,7 +20,7 @@ const VotePage: NextPageWithLayout = () => {
   const { layout } = useLayout();
   return (
     <>
-      <NextSeo title="Vote" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Vote" description="Freedom - Web3 NFT Game" />
       <div className="mx-auto w-full max-w-[1160px] text-sm md:pt-14 4xl:pt-24">
         <div
           className={cn('grid ', {

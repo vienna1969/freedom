@@ -6,7 +6,7 @@ import Farms from '@/components/farms/farms';
 const FarmsPage: NextPageWithLayout = () => {
   return (
     <>
-      <NextSeo title="Farms" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Farms" description="Freedom - Web3 NFT Game" />
       <Farms />
     </>
   );

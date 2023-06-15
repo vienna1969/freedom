@@ -20,7 +20,6 @@ import Avatar from '@/components/ui/avatar';
 import TopupButton from '@/components/ui/topup-button';
 
 import Image from '@/components/ui/image';
-import LogoMomocon from '@/assets-landing/images/logo-momocon.svg';
 import IcoApple from '@/assets-landing/images/ico-apple.svg';
 import IcoAndroid from '@/assets-landing/images/ico-android.svg';
 import IcoScrolldown from '@/assets-landing/images/ico-scrolldown.svg';
@@ -122,7 +121,7 @@ export default function MomoconScreen() {
 
   return (
     <>
-      <NextSeo title="Granderby" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Freedom" description="Freedom - Web3 NFT Game" />
 
       <div className="flex flex-wrap">
         <div className="mb-8 w-full sm:mb-0 sm:w-1/2 sm:ltr:pr-6 sm:rtl:pl-6 md:w-[calc(100%-256px)] lg:w-[calc(100%-288px)] 2xl:w-[calc(100%-320px)] 3xl:w-[calc(100%-358px)]">

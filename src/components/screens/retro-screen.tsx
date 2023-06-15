@@ -9,10 +9,7 @@ import ComparisonChart from '@/components/ui/chats/retro-comparision-chart';
 export default function RetroScreen() {
   return (
     <>
-      <NextSeo
-        title="Granderby - Retro"
-        description="Granderby - Web3 NFT Game"
-      />
+      <NextSeo title="Freedom - Retro" description="Freedom - Web3 NFT Game" />
 
       <div className="retro-container">
         <div>

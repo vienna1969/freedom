@@ -23,8 +23,8 @@ export default function handler(
   /*
     const json = '{
         "id": "19",
-        "name":"Granderby Horse #19",
-        "description":"Granderby NFT Horses",
+        "name":"Freedom Horse #19",
+        "description":"Freedom NFT Horses",
         "image":"https://granderby-delta.vercel.app/Hrs_00006000.png",
         "attributes":
         [

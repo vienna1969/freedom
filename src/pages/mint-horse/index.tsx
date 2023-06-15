@@ -109,7 +109,7 @@ const Product = (props) => {
 export const getStaticProps: GetStaticProps = async () => {
   return {
     props: {
-      title: 'Granderby - Mint',
+      title: 'Freedom - Mint',
       description: 'powered by MOMOCON',
       image: '/mint-bg.png',
     },
@@ -286,7 +286,7 @@ const MintPage: NextPageWithLayout<
         />
         <meta property="og:type" content="website"></meta>
 
-        <meta property="og:site_name" content="GRANDERBY"></meta>
+        <meta property="og:site_name" content="FREEDOM"></meta>
 
         <meta property="og:image:width" content="1400"></meta>
         <meta property="og:image:height" content="1400"></meta>
@@ -460,37 +460,6 @@ const MintPage: NextPageWithLayout<
 </Stack>
    */}
       </div>
-
-      <footer>
-        <div className="flex-cols mt-10 flex items-center justify-center gap-3 bg-gray-800 pb-5 pt-10 text-white ">
-          <div>Copyright ©MOMOCON</div>
-
-          <AnchorLink href="/terms">Terms of Service</AnchorLink>
-
-          <div>Privacy Policy</div>
-        </div>
-
-        <div className=" flex-cols flex items-center justify-center gap-3 bg-gray-800 pb-20 pt-3 text-white ">
-          <div>
-            <Image src={LogoMomocon} alt="MOMOCON" width={48} height={48} />
-          </div>
-
-          <AnchorLink
-            href="https://www.instagram.com/nftgranderby"
-            target="_blank"
-            className="flex items-center gap-1 rounded-lg bg-gray-100 px-3 pb-1 pt-[6px] text-sm font-medium text-gray-900 dark:bg-gray-700 dark:text-white"
-          >
-            <Instagram className="h-4 w-4" /> Instagram
-          </AnchorLink>
-          <AnchorLink
-            href="https://twitter.com/nftgranderby"
-            target="_blank"
-            className="flex items-center gap-1 rounded-lg bg-gray-100 px-3 pb-1 pt-[6px] text-sm font-medium text-gray-900 dark:bg-gray-700 dark:text-white"
-          >
-            <Twitter className="h-4 w-4" /> Twitter
-          </AnchorLink>
-        </div>
-      </footer>
     </>
   );
 };

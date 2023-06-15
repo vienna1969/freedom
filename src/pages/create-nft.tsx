@@ -12,7 +12,7 @@ const CreateNFTPage: NextPageWithLayout = () => {
   if (layout === LAYOUT_OPTIONS.RETRO) {
     return (
       <>
-        <NextSeo title="Create NFT" description="Granderby - Web3 NFT Game" />
+        <NextSeo title="Create NFT" description="Freedom - Web3 NFT Game" />
         <CreateNFTRetro />
       </>
     );
@@ -20,7 +20,7 @@ const CreateNFTPage: NextPageWithLayout = () => {
   // render default create NFT component
   return (
     <>
-      <NextSeo title="Create NFT" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Create NFT" description="Freedom - Web3 NFT Game" />
       <CreateNFT />
     </>
   );

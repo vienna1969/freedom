@@ -86,10 +86,7 @@ const ProposalsPage: NextPageWithLayout = () => {
 
   return (
     <>
-      <NextSeo
-        title="Landing"
-        description="Granderby - NFT Horse Racing Game"
-      />
+      <NextSeo title="Landing" description="Freedom - NFT Horse Racing Game" />
 
       <link rel="stylesheet" href="assets-game/css/game.css" />
 

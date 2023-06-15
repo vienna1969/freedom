@@ -13,7 +13,7 @@ const SwapPage: NextPageWithLayout = () => {
   let [toggleCoin, setToggleCoin] = useState(false);
   return (
     <>
-      <NextSeo title="Farms" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Farms" description="Freedom - Web3 NFT Game" />
       <Trade>
         <div className="mb-5 border-b border-dashed border-gray-200 pb-5 dark:border-gray-800 xs:mb-7 xs:pb-6">
           <div

@@ -36,8 +36,8 @@ export default function handler(
 
   const nftData = {
     id: req.query.id,
-    name: 'Granderby Horse #' + req.query.id,
-    description: 'Granderby NFT Horses',
+    name: 'Freedom Horse #' + req.query.id,
+    description: 'Freedom NFT Horses',
     image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
     attributes: [{ trait_type: 'Grade', value: grade }],
   };
@@ -49,8 +49,8 @@ export default function handler(
   /*
     const json = '{
         "id": "19",
-        "name":"Granderby Horse #19",
-        "description":"Granderby NFT Horses",
+        "name":"Freedom Horse #19",
+        "description":"Freedom NFT Horses",
         "image":"https://granderby-delta.vercel.app/Hrs_00006000.png",
         "attributes":
         [

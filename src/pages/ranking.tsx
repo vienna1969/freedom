@@ -96,7 +96,7 @@ const notifications = [
 const RankingPage: NextPageWithLayout = () => {
   return (
     <>
-      <NextSeo title="Notifications" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Notifications" description="Freedom - Web3 NFT Game" />
 
       <div className="mx-auto w-[660px] max-w-full">
         <div className="mb-7 flex items-center justify-between gap-6">

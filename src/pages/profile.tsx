@@ -43,7 +43,7 @@ const AuthorProfilePage: NextPageWithLayout<
   if (layout === LAYOUT_OPTIONS.RETRO) {
     return (
       <>
-        <NextSeo title="Profile" description="Granderby - Web3 NFT Game" />
+        <NextSeo title="Profile" description="Freedom - Web3 NFT Game" />
 
         <div className="relative h-36 w-full overflow-hidden rounded-lg sm:h-44 md:h-64 xl:h-80 2xl:h-96 3xl:h-[448px]">
           <Image
@@ -70,7 +70,7 @@ const AuthorProfilePage: NextPageWithLayout<
   // render default profile
   return (
     <>
-      <NextSeo title="Profile" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Profile" description="Freedom - Web3 NFT Game" />
 
       <div className="relative h-36 w-full overflow-hidden rounded-lg sm:h-44 md:h-64 xl:h-80 2xl:h-96 3xl:h-[448px]">
         <Image

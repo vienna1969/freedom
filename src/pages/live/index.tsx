@@ -50,7 +50,7 @@ import Head from 'next/head';
 export const getStaticProps: GetStaticProps = async () => {
   return {
     props: {
-      title: 'Granderby - Home',
+      title: 'Freedom - Home',
       description: 'powered by MOMOCON',
       image: '/intro-bg.png',
     },
@@ -103,10 +103,7 @@ const ProposalsPage: NextPageWithLayout<
 
   return (
     <>
-      <NextSeo
-        title="Landing"
-        description="Granderby - NFT Horse Racing Game"
-      />
+      <NextSeo title="Landing" description="Freedom - NFT Horse Racing Game" />
 
       <Head>
         <meta
@@ -115,7 +112,7 @@ const ProposalsPage: NextPageWithLayout<
         />
         <meta property="og:type" content="website"></meta>
 
-        <meta property="og:site_name" content="GRANDERBY"></meta>
+        <meta property="og:site_name" content="FREEDOM"></meta>
         <meta name="twitter:card" content="summary_large_image"></meta>
 
         <meta property="og:image:width" content="1400"></meta>
@@ -179,7 +176,7 @@ const ProposalsPage: NextPageWithLayout<
           <p>
             MOMOCON SG CO.,LTD.
             <br />
-            Copyrights GRANDERBY since 2023
+            Copyrights FREEDOM since 2023
           </p>
         </div>
       </footer>

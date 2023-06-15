@@ -103,7 +103,7 @@ export function Header() {
 
           <div className="flex flex-row gap-2">
             <Image src={logo} alt="logo" width={24} height={24} className="" />
-            <span>Granderby</span>
+            <span>Freedom</span>
           </div>
 
           {isMounted && ['xs', 'sm', 'md', 'lg'].indexOf(breakpoint) == -1 && (

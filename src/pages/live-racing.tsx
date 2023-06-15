@@ -82,7 +82,7 @@ function CoinPrices() {
   if (layout === LAYOUT_OPTIONS.RETRO) {
     return (
       <>
-        <NextSeo title="Race List" description="Granderby - Web3 NFT Game" />
+        <NextSeo title="Race List" description="Freedom - Web3 NFT Game" />
         <LivePricingSliderRetro limits={3} />
         <CryptocurrencyPricingRetroTable />
       </>
@@ -91,7 +91,7 @@ function CoinPrices() {
 
   return (
     <>
-      <NextSeo title="Race List" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Race List" description="Freedom - Web3 NFT Game" />
 
       {/*
       <LivePricingSlider limits={4} />
@@ -110,37 +110,6 @@ function CoinPrices() {
       {/*
       <CryptocurrencyPricingTable />
   */}
-
-      <footer>
-        <div className=" flex-cols flex items-center justify-center gap-3 bg-gray-800 pb-5 pt-10 text-white ">
-          <div>Copyright ©MOMOCON</div>
-
-          <AnchorLink href="/terms">Terms of Service</AnchorLink>
-
-          <div>Privacy Policy</div>
-        </div>
-
-        <div className=" flex-cols flex items-center justify-center gap-3 bg-gray-800 pb-20 pt-3 text-white ">
-          <div>
-            <Image src={LogoMomocon} alt="MOMOCON" width={48} height={48} />
-          </div>
-
-          <AnchorLink
-            href="https://www.instagram.com/nftgranderby"
-            target="_blank"
-            className="flex items-center gap-1 rounded-lg bg-gray-100 px-3 pb-1 pt-[6px] text-sm font-medium text-gray-900 dark:bg-gray-700 dark:text-white"
-          >
-            <Instagram className="h-4 w-4" /> Instagram
-          </AnchorLink>
-          <AnchorLink
-            href="https://twitter.com/nftgranderby"
-            target="_blank"
-            className="flex items-center gap-1 rounded-lg bg-gray-100 px-3 pb-1 pt-[6px] text-sm font-medium text-gray-900 dark:bg-gray-700 dark:text-white"
-          >
-            <Twitter className="h-4 w-4" /> Twitter
-          </AnchorLink>
-        </div>
-      </footer>
     </>
   );
 }

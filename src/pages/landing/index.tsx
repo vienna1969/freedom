@@ -35,10 +35,7 @@ const ProposalsPage: NextPageWithLayout = () => {
 
   return (
     <>
-      <NextSeo
-        title="Landing"
-        description="Granderby - NFT Horse Racing Game"
-      />
+      <NextSeo title="Landing" description="Freedom - NFT Horse Racing Game" />
 
       <div id="intro">
         <div className="intro-mov">
@@ -49,7 +46,7 @@ const ProposalsPage: NextPageWithLayout = () => {
 
         <div className="title-wrap" data-aos="fade-up" data-aos-delay="200">
           <h1>
-            <span> Granderby</span>
+            <span> Freedom</span>
             <span className="line"> Horse Racing</span>
           </h1>
           <div className="btn-wrap">
@@ -176,8 +173,8 @@ const ProposalsPage: NextPageWithLayout = () => {
             </h3>
 
             <p data-aos="fade-up">
-              The GRANDERBY management app provides various services to players
-              who own GRANDERBY NFTs.
+              The FREEDOM management app provides various services to players
+              who own FREEDOM NFTs.
             </p>
             <p data-aos="fade-up">
               {' '}
@@ -193,8 +190,8 @@ const ProposalsPage: NextPageWithLayout = () => {
               game through the market service provided by the app.{' '}
             </p>
             <p data-aos="fade-up">
-              Experience systematic and dynamic Real-Time racing in the
-              GRANDERBY! Download Now!
+              Experience systematic and dynamic Real-Time racing in the FREEDOM!
+              Download Now!
             </p>
           </div>
         </div>
@@ -206,7 +203,7 @@ const ProposalsPage: NextPageWithLayout = () => {
           <p>
             MOMOCON SG CO.,LTD.
             <br />
-            Copyrights NFT GRANDERBY since 2022
+            Copyrights NFT FREEDOM since 2022
           </p>
         </div>
       </footer>

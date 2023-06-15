@@ -102,10 +102,7 @@ export default function MinimalScreen() {
 
   return (
     <>
-      <NextSeo
-        title="Granderby Minimal"
-        description="Granderby - Web3 NFT Game"
-      />
+      <NextSeo title="Freedom Minimal" description="Freedom - Web3 NFT Game" />
       <div className="">
         <PriceFeedSlider
           limit={4}

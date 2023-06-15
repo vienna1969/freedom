@@ -84,7 +84,7 @@ const ProposalsPage: NextPageWithLayout = () => {
 
   return (
     <>
-      <NextSeo title="Proposal" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Proposal" description="Freedom - Web3 NFT Game" />
 
       <section className="mx-auto w-full max-w-[1160px] text-sm ">
         <header

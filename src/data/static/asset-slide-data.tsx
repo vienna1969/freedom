@@ -12,7 +12,7 @@ import HorseImage4 from '@/assets/images/horse/Hrs_00006003.png';
 export const assetSlideData = [
   {
     id: '0',
-    name: 'Granderby Horse #0',
+    name: 'Freedom Horse #0',
     symbol: 'BTC',
     balance: '0.2231345',
     usdBalance: '11,032.24',
@@ -23,7 +23,7 @@ export const assetSlideData = [
   },
   {
     id: '1',
-    name: 'Granderby Horse #1',
+    name: 'Freedom Horse #1',
     symbol: 'USDT',
     balance: '1.2345',
     usdBalance: '1,032.24',
@@ -34,7 +34,7 @@ export const assetSlideData = [
   },
   {
     id: '2',
-    name: 'Granderby Horse #2',
+    name: 'Freedom Horse #2',
     symbol: 'ADA',
     balance: '1.2370',
     usdBalance: '532.94',
@@ -45,7 +45,7 @@ export const assetSlideData = [
   },
   {
     id: '3',
-    name: 'Granderby Horse #3',
+    name: 'Freedom Horse #3',
     symbol: 'BUSD',
     balance: '240.55',
     usdBalance: '340.24',

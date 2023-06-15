@@ -167,31 +167,31 @@ const MintPage: NextPageWithLayout = () => {
       <div>
         <b>MOMOCON SG PTE. LTD.</b>
         <br />
-        <b>GRANDERBY Terms of Service</b>
+        <b>FREEDOM Terms of Service</b>
 
         <ol>
           <li>
             These Terms of Service (<b>Terms</b>) form a contract between
-            MOMOCON SG PTE. LTD. (UEN 202304445H) and the GRANDERBY user (
+            MOMOCON SG PTE. LTD. (UEN 202304445H) and the FREEDOM user (
             <b>Users, you</b>), which you must accept to use any part of
-            GRANDERBY.
+            FREEDOM.
           </li>
           <li>
-            GRANDERBY is a distributed application that runs on the Ethereum
+            FREEDOM is a distributed application that runs on the Ethereum
             network, using uniquely developed smart contracts (
             <b>Smart Contracts</b>) to enable users to purchase, sell, breed and
             race statistically unique digital thoroughbreds, which can then be
             visualized on a website that the user can interact and earn Ethereum
-            from GRANDERBY (<b>GRANDERBY</b>).
+            from FREEDOM (<b>FREEDOM</b>).
           </li>
           <li>
-            PLEASE READ THESE TERMS CAREFULLY BEFORE USING GRANDERBY, THE SMART
+            PLEASE READ THESE TERMS CAREFULLY BEFORE USING FREEDOM, THE SMART
             CONTRACTS, OR THE WEBSITE. THESE TERMS GOVERN YOUR USE OF THE
             WEBSITE, THE SMART CONTRACTS, AND THE WEBSITE, UNLESS WE HAVE
             EXECUTED A SEPARATE WRITTEN AGREEMENT WITH YOU FOR THAT PURPOSE. WE
-            ARE ONLY WILLING TO MAKE GRANDERBY, THE SMART CONTRACTS, AND THE
+            ARE ONLY WILLING TO MAKE FREEDOM, THE SMART CONTRACTS, AND THE
             WEBSITE AVAILABLE TO YOU IF YOU ACCEPT ALL OF THESE TERMS. BY USING
-            GRANDERBY, THE SMART CONTRACTS, THE WEBSITE, OR ANY PART OF THEM, OR
+            FREEDOM, THE SMART CONTRACTS, THE WEBSITE, OR ANY PART OF THEM, OR
             PURCHASING AN NON-FUNGIBLE TOKEN (NFT), YOU ARE CONFIRMING THAT YOU
             UNDERSTAND AND AGREE TO BE BOUND BY ALL OF THESE TERMS, INCLUDING
             ANY AMENDED TERMS. IF YOU ARE ACCEPTING THESE TERMS ON BEHALF OF A
@@ -199,19 +199,19 @@ const MintPage: NextPageWithLayout = () => {
             AUTHORITY TO ACCEPT THESE TERMS ON THAT ENTITY’S BEHALF, IN WHICH
             CASE “YOU” WILL MEAN THAT ENTITY. IF YOU DO NOT HAVE SUCH AUTHORITY,
             OR IF YOU DO NOT ACCEPT ALL OF THESE TERMS, THEN WE ARE UNWILLING TO
-            MAKE GRANDERBY, THE SMART CONTRACTS, THE WEBSITE, OR AN NFT,
-            AVAILABLE TO YOU. IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT
-            ACCESS OR USE GRANDERBY, THE SMART CONTRACTS, OR THE WEBSITE.
+            MAKE FREEDOM, THE SMART CONTRACTS, THE WEBSITE, OR AN NFT, AVAILABLE
+            TO YOU. IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT ACCESS OR
+            USE FREEDOM, THE SMART CONTRACTS, OR THE WEBSITE.
           </li>
           <br />
-          <b>USING GRANDERBY</b>
+          <b>USING FREEDOM</b>
           <li>
             Restrictions
             <ol type="a">
               <li>
                 {' '}
-                GRANDERBY is only available to users over the age of 18. You
-                must not create an account if you are under the age of 18.
+                FREEDOM is only available to users over the age of 18. You must
+                not create an account if you are under the age of 18.
               </li>
               <li>
                 {' '}
@@ -220,26 +220,24 @@ const MintPage: NextPageWithLayout = () => {
                   <li>
                     use exploits, automation software, bots, mods, or any
                     unauthorised third-party software designed to modify or
-                    interfere with the GRANDERBY service, any GRANDERBY game,
-                    any GRANDERBY smart contract, any GRANDERBY NFT, or any
-                    GRANDERBY game experience or without MOMOCON’s express
-                    written consent, modify or cause to be modified any files
-                    that are a part of the service or any GRANDERBY platform or
-                    game.
+                    interfere with the FREEDOM service, any FREEDOM game, any
+                    FREEDOM smart contract, any FREEDOM NFT, or any FREEDOM game
+                    experience or without MOMOCON’s express written consent,
+                    modify or cause to be modified any files that are a part of
+                    the service or any FREEDOM platform or game.
                   </li>
                   <li>
                     disrupt, or assist to disrupt, any computer, network or
-                    server used to provide the GRANDERBY service or game
+                    server used to provide the FREEDOM service or game
                     environment.
                   </li>
                   <li>
                     obtain, or attempt to gain, unauthorised access to the
-                    GRANDERBY service or to any account of another GRANDERBY
-                    user.
+                    FREEDOM service or to any account of another FREEDOM user.
                   </li>
                   <li>
-                    breach the GRANDERBY Prohibited Behaviours rules, which can
-                    be accessed by following this{' '}
+                    breach the FREEDOM Prohibited Behaviours rules, which can be
+                    accessed by following this{' '}
                     <a href="https://granderby.io" target="_blank">
                       link
                     </a>
@@ -250,20 +248,20 @@ const MintPage: NextPageWithLayout = () => {
               <li>
                 You agree that you will not use a name for any NFT or user that
                 is likely to be offensive, derogatory, prejudicial, inflammatory
-                or inappropriate for use in the GRANDERBY community. MOMOCON
+                or inappropriate for use in the FREEDOM community. MOMOCON
                 reserves the right upon to cancel the name of any NFT or user
                 which MOMOCON determines in its absolute discretion to be
                 offensive, derogatory, prejudicial, inflammatory or
-                inappropriate for use in the GRANDERBY community by giving the
-                NFT owner or user written notice (which may provided after the
-                name has been cancelled). Where such a determination is made,
-                the NFT name or user name will be changed to a generic name and
-                the NFT owner or account registrant will be able to choose a new
-                name. You agree that the determination of MOMOCON is final and
-                not reviewable, and that repeated breaches of this clause may
-                result in suspension of the user’s account or the ability for
-                the NFT to participate in GRANDERBY and/or the termination of
-                the Licence issued under clause 23.b.
+                inappropriate for use in the FREEDOM community by giving the NFT
+                owner or user written notice (which may provided after the name
+                has been cancelled). Where such a determination is made, the NFT
+                name or user name will be changed to a generic name and the NFT
+                owner or account registrant will be able to choose a new name.
+                You agree that the determination of MOMOCON is final and not
+                reviewable, and that repeated breaches of this clause may result
+                in suspension of the user’s account or the ability for the NFT
+                to participate in FREEDOM and/or the termination of the Licence
+                issued under clause 23.b.
               </li>
               <li>
                 We reserve the right to suspend or terminate a User account for
@@ -290,18 +288,18 @@ const MintPage: NextPageWithLayout = () => {
                 </ol>
               </li>
               <li>
-                GRANDERBY is not available in every region. We reserve the right
+                FREEDOM is not available in every region. We reserve the right
                 to restrict or block access to our services based on the User s
                 location.
               </li>
             </ol>
           </li>
           <li>
-            GRANDERBY has utilized Smart Contracts to develop the GRANDERBY
-            Genesis racehorses. GRANDERBY will release a certain number of
-            Genesis racehorses into the marketplace and make them available for
-            purchase to the public at the Company’s discretion. GRANDERBY will
-            release 38,000 racehorses and will never, ever release any more
+            FREEDOM has utilized Smart Contracts to develop the FREEDOM Genesis
+            racehorses. FREEDOM will release a certain number of Genesis
+            racehorses into the marketplace and make them available for purchase
+            to the public at the Company’s discretion. FREEDOM will release
+            38,000 racehorses and will never, ever release any more
             thoroughbreds. As described below, the racehorses may breed
             offspring.
           </li>
@@ -321,12 +319,12 @@ const MintPage: NextPageWithLayout = () => {
             </b>
           </li>
           <li>
-            As users breed their racehorses, new racehorses (offspring)
-            GRANDERBY genotypes will be created. Using GRANDERBY’s proprietary
-            algorithm, each thoroughbred created from breeding will have a
-            unique profile value. Each offspring will carry over certain
-            characteristics from its mother (mare) and its father (stallion)
-            such as its bloodline, breed type and genotype.{' '}
+            As users breed their racehorses, new racehorses (offspring) FREEDOM
+            genotypes will be created. Using FREEDOM’s proprietary algorithm,
+            each thoroughbred created from breeding will have a unique profile
+            value. Each offspring will carry over certain characteristics from
+            its mother (mare) and its father (stallion) such as its bloodline,
+            breed type and genotype.{' '}
           </li>
           <li>
             How you breed your thoroughbreds is entirely up to each user. The
@@ -342,71 +340,71 @@ const MintPage: NextPageWithLayout = () => {
             the female racehorse once the breeding transaction is complete.
           </li>
           <li>
-            To most easily use GRANDERBY, we strongly recommend that you first
+            To most easily use FREEDOM, we strongly recommend that you first
             install the Google Chrome web browser. Once you have installed
             Chrome, you will need to install a browser extension called
             MetaMask. MetaMask is an electronic digital wallet, which allows you
             to purchase, store, and engage in transactions using Ethereum or any
             other ERC-20 cryptocurrency. You will not be able to engage in any
-            transactions on GRANDERBY other than through MetaMask (or other
-            Ethereum-compatible browsers) or an email address, where GRANDERBY
+            transactions on FREEDOM other than through MetaMask (or other
+            Ethereum-compatible browsers) or an email address, where FREEDOM
             creates a non-custodial electronic digital wallet for you.
           </li>
           <li>
-            GRANDERBY will only recognize you as a user and you will only be
-            able to interact with GRANDERBY, if your Ethereum electronic digital
-            wallet is connected and unlocked through your MetaMask account or
-            your email address. There is no other way to sign up as a user, or
-            to interact directly with GRANDERBY. BY USING OUR SERVICES YOU AGREE
-            THAT YOU ARE GOVERNED BY THE TERMS OF SERVICE AND PRIVACY POLICY FOR
-            THE APPLICABLE EXTENSIONS. FOR METAMASK, THOSE TERMS ARE AVAILABLE
-            AT (https://metamask.io/terms.html) and
+            FREEDOM will only recognize you as a user and you will only be able
+            to interact with FREEDOM, if your Ethereum electronic digital wallet
+            is connected and unlocked through your MetaMask account or your
+            email address. There is no other way to sign up as a user, or to
+            interact directly with FREEDOM. BY USING OUR SERVICES YOU AGREE THAT
+            YOU ARE GOVERNED BY THE TERMS OF SERVICE AND PRIVACY POLICY FOR THE
+            APPLICABLE EXTENSIONS. FOR METAMASK, THOSE TERMS ARE AVAILABLE AT
+            (https://metamask.io/terms.html) and
             (https://metamask.io/privacy.html).
           </li>
           <li>
             You are responsible for any Internet connection and
             telecommunication fees and charges that you incur when accessing
-            GRANDERBY.
+            FREEDOM.
           </li>
           <li>
-            Transactions that take place on GRANDERBY are managed and confirmed
+            Transactions that take place on FREEDOM are managed and confirmed
             via the Polygon blockchain, which is a proof of stake network, and a
             sidechain to the Ethereum blockchain. The main Ethereum blockchain
             is currently a proof of work network. Proof of stake networks use
             less energy than proof of work networks. You understand that your
             Ethereum public address will be made publicly visible whenever you
-            engage in a transaction on GRANDERBY.
+            engage in a transaction on FREEDOM.
           </li>
           <li>
             We neither own nor control MetaMask, Google Chrome, the Ethereum
             network, or any other third party site, product, or service that you
             might access, visit, or use for the purpose of enabling you to use
-            the various features of GRANDERBY. GRANDERBY will not be liable for
-            the acts or omissions of any such third parties, nor will we be
-            liable for any damage that you may suffer as a result of your
-            transactions or any other interaction with any such third parties.
+            the various features of FREEDOM. FREEDOM will not be liable for the
+            acts or omissions of any such third parties, nor will we be liable
+            for any damage that you may suffer as a result of your transactions
+            or any other interaction with any such third parties.
           </li>
           <li>
             You must provide accurate and complete registration information when
-            you create an account on GRANDERBY. By creating an account, you
-            agree to provide accurate, current and complete account information
-            about yourself, and to maintain and promptly update as necessary
-            your account information. You are responsible for the security of
-            your account and your MetaMask wallet (and other Ethereum wallets
-            and email accounts).
+            you create an account on FREEDOM. By creating an account, you agree
+            to provide accurate, current and complete account information about
+            yourself, and to maintain and promptly update as necessary your
+            account information. You are responsible for the security of your
+            account and your MetaMask wallet (and other Ethereum wallets and
+            email accounts).
           </li>
           <li>
             You may not share or transfer any account. You may not disclose your
             password or other credentials to anyone. You agree to immediately
-            notify GRANDERBY by sending an email to us at hello@zed.run
-            concerning any known or suspected unauthorized use(s) of your
-            account or any known or suspected breach of security, including
-            loss, theft or unauthorized disclosure of your password. You
-            understand and agree that you shall be liable for all activities
-            that occur under any account created for your use, even if such
-            activities were not committed by you. We are not responsible for any
-            loss or damage arising from your failure to maintain the
-            confidentiality of your password or of your account.
+            notify FREEDOM by sending an email to us at hello@zed.run concerning
+            any known or suspected unauthorized use(s) of your account or any
+            known or suspected breach of security, including loss, theft or
+            unauthorized disclosure of your password. You understand and agree
+            that you shall be liable for all activities that occur under any
+            account created for your use, even if such activities were not
+            committed by you. We are not responsible for any loss or damage
+            arising from your failure to maintain the confidentiality of your
+            password or of your account.
           </li>
           <br />
           <b>FEES</b>
@@ -415,23 +413,23 @@ const MintPage: NextPageWithLayout = () => {
             <ol type="a">
               <li>
                 If you elect to purchase, sell or breed racehorses using
-                GRANDERBY, or with or from other users in GRANDERBY, any
-                financial transactions that you engage in will be conducted
-                solely through the Ethereum network via MetaMask. We will have
-                no insight into or control over these payments or transactions,
-                nor do we have the ability to reverse any transactions. With
-                that in mind, we will have no liability to you or to any third
-                party for any claims or damages that may arise as a result of
-                any transactions that you engage in via the App, or using the
-                Smart Contracts, or any other transactions that you conduct via
-                the Ethereum network or MetaMask.
+                FREEDOM, or with or from other users in FREEDOM, any financial
+                transactions that you engage in will be conducted solely through
+                the Ethereum network via MetaMask. We will have no insight into
+                or control over these payments or transactions, nor do we have
+                the ability to reverse any transactions. With that in mind, we
+                will have no liability to you or to any third party for any
+                claims or damages that may arise as a result of any transactions
+                that you engage in via the App, or using the Smart Contracts, or
+                any other transactions that you conduct via the Ethereum network
+                or MetaMask.
               </li>
               <li>
                 10% of the fee paid for pay-to-enter races will be allocated and
-                held for the benefit of other participants of GRANDERBY who win
-                prizes, and the GRANDERBY infrastructure. The allocated amount
+                held for the benefit of other participants of FREEDOM who win
+                prizes, and the FREEDOM infrastructure. The allocated amount
                 will either be paid out as prizes, or be paid as a contribution
-                towards the GRANDERBY infrastructure.
+                towards the FREEDOM infrastructure.
               </li>
             </ol>
           </li>
@@ -444,22 +442,21 @@ const MintPage: NextPageWithLayout = () => {
           </li>
           <li>
             In addition to the Gas Fee, each time you utilize a Smart Contract
-            to conduct a transaction with another user via GRANDERBY, you
-            authorize GRANDERBY to collect a commission on certain events only
-            (a “Commission”). These events include purchasing, selling or
-            breeding of a thoroughbred on the App. You acknowledge and agree
-            that the Commission will be transferred directly to us through the
-            Ethereum network as part of your payment.
+            to conduct a transaction with another user via FREEDOM, you
+            authorize FREEDOM to collect a commission on certain events only (a
+            “Commission”). These events include purchasing, selling or breeding
+            of a thoroughbred on the App. You acknowledge and agree that the
+            Commission will be transferred directly to us through the Ethereum
+            network as part of your payment.
           </li>
           <br />
           <b>TERMS OF SALE OF NON-FUNGIBLE TOKENS</b>
           <li>
             When you purchase or Procure non-fungible tokens (<b>NFTs</b>) for
-            use in GRANDERBY you must agree to the following terms and
-            conditions (<b>NFT Terms</b>), which apply to you and any subsequent
-            person to whom you sell the NFT(s) you purchased from us in the
-            first instance, or to whom you otherwise transfer the NFT(s) you
-            Procured.
+            use in FREEDOM you must agree to the following terms and conditions
+            (<b>NFT Terms</b>), which apply to you and any subsequent person to
+            whom you sell the NFT(s) you purchased from us in the first
+            instance, or to whom you otherwise transfer the NFT(s) you Procured.
           </li>
           <li>
             Applicability of NFT Terms
@@ -471,9 +468,9 @@ const MintPage: NextPageWithLayout = () => {
                 by these NFT Terms.
               </li>
               <li>
-                The use of any NFTs with GRANDERBY is subject to these NFT Terms
+                The use of any NFTs with FREEDOM is subject to these NFT Terms
                 together with any other terms and conditions which may apply to
-                the use of GRANDERBY including without limitation our Privacy
+                the use of FREEDOM including without limitation our Privacy
                 Policy and any ancillary document relating to the Licence
                 referred to in clause 23.b.
               </li>
@@ -492,7 +489,7 @@ const MintPage: NextPageWithLayout = () => {
                   <li>
                     We may conduct pre-sales of NFTs from time to time, either
                     as a stand-alone or with bundles, including for early access
-                    or for expansions of GRANDERBY.
+                    or for expansions of FREEDOM.
                   </li>
                   <li>
                     Orders placed for pre-purchase of NFTs are non-refundable,
@@ -601,19 +598,18 @@ const MintPage: NextPageWithLayout = () => {
                 <ol type="i">
                   <li>
                     NFTs purchased or Procured by you may be used for gameplay
-                    in GRANDERBY, which may provide additional features and
+                    in FREEDOM, which may provide additional features and
                     services.
                   </li>
                   <li>
-                    Gameplay in GRANDERBY may be subject to further
-                    instructions, restrictions, terms and conditions as detailed
-                    in these Terms, GRANDERBY or on the Website, including in
-                    respect of our stud and breeding programs and racing game.
+                    Gameplay in FREEDOM may be subject to further instructions,
+                    restrictions, terms and conditions as detailed in these
+                    Terms, FREEDOM or on the Website, including in respect of
+                    our stud and breeding programs and racing game.
                   </li>
                   <li>
-                    We do not represent or guarantee that your access to
-                    GRANDERBY will be uninterrupted or will be maintained into
-                    the future.
+                    We do not represent or guarantee that your access to FREEDOM
+                    will be uninterrupted or will be maintained into the future.
                   </li>
                 </ol>
               </li>
@@ -714,9 +710,9 @@ const MintPage: NextPageWithLayout = () => {
                   </li>
                   <li>
                     the purchase of an NFT does not grant you any ownership or
-                    licence for any Intellectual Property Rights over GRANDERBY
-                    or any aspect of Art used in our NFTs other than as
-                    expressly set out in these NFT Terms; and
+                    licence for any Intellectual Property Rights over FREEDOM or
+                    any aspect of Art used in our NFTs other than as expressly
+                    set out in these NFT Terms; and
                   </li>
                   <li>
                     the Licence granted under this clause is limited to the time
@@ -771,7 +767,7 @@ const MintPage: NextPageWithLayout = () => {
             <ol type="a">
               <li>
                 we provide NFTs solely on a proprietary basis for use with
-                GRANDERBY and if we transact with you we do so solely on a
+                FREEDOM and if we transact with you we do so solely on a
                 bilateral basis;
               </li>
               <li>
@@ -815,9 +811,9 @@ const MintPage: NextPageWithLayout = () => {
                     you purchase NFTs entirely at your own risk and
                     understanding and we have not made any representations or
                     warranties as to the IT security or ongoing availability of
-                    such NFTs or that your access to use your NFTs in GRANDERBY
-                    or in any other way will be uninterrupted, timely or secure
-                    at all times;
+                    such NFTs or that your access to use your NFTs in FREEDOM or
+                    in any other way will be uninterrupted, timely or secure at
+                    all times;
                   </li>
                 </ol>
               </li>
@@ -827,7 +823,7 @@ const MintPage: NextPageWithLayout = () => {
                 phrases and private key(s) associated with your Digital Wallet
                 and that we will not store any information in connection with
                 your Digital Wallet beyond that required for the sale of NFTs or
-                the interaction of your Digital Wallet with GRANDERBY;
+                the interaction of your Digital Wallet with FREEDOM;
               </li>
               <li>
                 we do not and cannot guarantee there will be any use for, or any
@@ -836,10 +832,10 @@ const MintPage: NextPageWithLayout = () => {
               <li>
                 we do not represent or guarantee any outcomes, or any financial
                 return from your acquisition of any NFT from us, save the
-                ability to use the NFT within GRANDERBY for such time as we
-                choose to support on and off GRANDERBY, and such access to
-                GRANDERBY may be subject to further terms and conditions,
-                including payment of subscription fees.
+                ability to use the NFT within FREEDOM for such time as we choose
+                to support on and off FREEDOM, and such access to FREEDOM may be
+                subject to further terms and conditions, including payment of
+                subscription fees.
               </li>
             </ol>
           </li>
@@ -862,7 +858,7 @@ const MintPage: NextPageWithLayout = () => {
                     We will give you notice before we discontinue or alter the
                     rights or features of any NFTs which you have purchased,
                     subject to any other terms and conditions applying to
-                    GRANDERBY; and
+                    FREEDOM; and
                   </li>
                   <li>
                     We will undertake reasonable efforts to deliver any
@@ -887,8 +883,8 @@ const MintPage: NextPageWithLayout = () => {
                     You have all necessary experience, resources, certificates,
                     licences, permits and approvals to procure or purchase of
                     NFTs applicable in Your Jurisdiction, and that any
-                    transactions under these NFT Terms or in your use of
-                    GRANDERBY will be legal under the applicable laws of Your
+                    transactions under these NFT Terms or in your use of FREEDOM
+                    will be legal under the applicable laws of Your
                     Jurisdiction;
                   </li>
                   <li>
@@ -1138,9 +1134,9 @@ const MintPage: NextPageWithLayout = () => {
             Tax
             <ol type="a">
               <li>
-                The price for any transaction in GRANDERBY (including the
-                Purchase Price) will be considered to be inclusive of any
-                applicable Sales Tax.
+                The price for any transaction in FREEDOM (including the Purchase
+                Price) will be considered to be inclusive of any applicable
+                Sales Tax.
               </li>
               <li>
                 If any additional Sales Tax is applicable by virtue of any law
@@ -1170,9 +1166,9 @@ const MintPage: NextPageWithLayout = () => {
                 notice, consent, approval, waiver or other communication
                 (notice) in connection with these Terms must be in writing and
                 in English and sent to, in the case of us, our nominated email
-                or via the GRANDERBY interface, of in the case of you, to your
-                nominated email or published on the GRANDERBY website with
-                public access to such notice.
+                or via the FREEDOM interface, of in the case of you, to your
+                nominated email or published on the FREEDOM website with public
+                access to such notice.
               </li>
               <li>
                 Any notice will be deemed to be received within 24 hours of
@@ -1298,7 +1294,7 @@ const MintPage: NextPageWithLayout = () => {
             Precedence
             <br />
             Where there is inconsistency between the Terms and other content
-            displayed as part of the GRANDERBY Platform concerning the sale of
+            displayed as part of the FREEDOM Platform concerning the sale of
             NFTs, the content of the Terms will prevail to the extent of any
             inconsistency.
           </li>
@@ -1589,7 +1585,7 @@ const MintPage: NextPageWithLayout = () => {
             <br />
             <br />
             <b>NFT</b> means a non-fungible token issued by MOMOCON for use in
-            GRANDERBY.
+            FREEDOM.
             <br />
             <br />
             <b>NFT Terms</b> mean the terms and conditions of these Terms that
@@ -1631,9 +1627,9 @@ const MintPage: NextPageWithLayout = () => {
             (if any) as may be varied from time to time
             <br />
             <br />
-            <b>GRANDERBY</b> means the GRANDERBY online game and associated
-            software interfaces for that game, including the home website for
-            GRANDERBY, elements of which are located on the Ethereum Blockchain.
+            <b>FREEDOM</b> means the FREEDOM online game and associated software
+            interfaces for that game, including the home website for FREEDOM,
+            elements of which are located on the Ethereum Blockchain.
           </li>
         </ol>
       </div>

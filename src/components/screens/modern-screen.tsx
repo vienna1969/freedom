@@ -103,7 +103,7 @@ export default function ModernScreen() {
 
   return (
     <>
-      <NextSeo title="Granderby" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Freedom" description="Freedom - Web3 NFT Game" />
 
       <div className="flex flex-wrap">
         {!address && (
@@ -131,7 +131,7 @@ export default function ModernScreen() {
             {!address ? (
               <div className="flex flex-col justify-center">
                 <ConnectWallet theme="light" />
-                <h3> to experience the GRANDERBY service</h3>
+                <h3> to experience the FREEDOM service</h3>
               </div>
             ) : (
               <>

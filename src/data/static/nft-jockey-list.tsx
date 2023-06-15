@@ -1,8 +1,8 @@
 export const NFTList = [
   {
     id: '0',
-    name: 'Granderby Jockey #0',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #0',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'large' },
@@ -17,8 +17,8 @@ export const NFTList = [
   },
   {
     id: '1',
-    name: 'Granderby Jockey #1',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #1',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -33,8 +33,8 @@ export const NFTList = [
   },
   {
     id: '2',
-    name: 'Granderby Jockey #2',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #2',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -49,8 +49,8 @@ export const NFTList = [
   },
   {
     id: '3',
-    name: 'Granderby Jockey #3',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #3',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -65,8 +65,8 @@ export const NFTList = [
   },
   {
     id: '4',
-    name: 'Granderby Jockey #4',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #4',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -81,8 +81,8 @@ export const NFTList = [
   },
   {
     id: '5',
-    name: 'Granderby Jockey #5',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #5',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -97,8 +97,8 @@ export const NFTList = [
   },
   {
     id: '6',
-    name: 'Granderby Jockey #6',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #6',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -113,8 +113,8 @@ export const NFTList = [
   },
   {
     id: '7',
-    name: 'Granderby Jockey #7',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #7',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -129,8 +129,8 @@ export const NFTList = [
   },
   {
     id: '8',
-    name: 'Granderby Jockey #8',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #8',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -145,8 +145,8 @@ export const NFTList = [
   },
   {
     id: '9',
-    name: 'Granderby Jockey #9',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #9',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -161,8 +161,8 @@ export const NFTList = [
   },
   {
     id: '10',
-    name: 'Granderby Jockey #10',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #10',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'large' },
@@ -177,8 +177,8 @@ export const NFTList = [
   },
   {
     id: '11',
-    name: 'Granderby Jockey #11',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #11',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -193,8 +193,8 @@ export const NFTList = [
   },
   {
     id: '12',
-    name: 'Granderby Jockey #12',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #12',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -209,8 +209,8 @@ export const NFTList = [
   },
   {
     id: '13',
-    name: 'Granderby Jockey #13',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #13',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -225,8 +225,8 @@ export const NFTList = [
   },
   {
     id: '14',
-    name: 'Granderby Jockey #14',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #14',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -241,8 +241,8 @@ export const NFTList = [
   },
   {
     id: '15',
-    name: 'Granderby Jockey #15',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #15',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -257,8 +257,8 @@ export const NFTList = [
   },
   {
     id: '16',
-    name: 'Granderby Jockey #16',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #16',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -273,8 +273,8 @@ export const NFTList = [
   },
   {
     id: '17',
-    name: 'Granderby Jockey #17',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #17',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -289,8 +289,8 @@ export const NFTList = [
   },
   {
     id: '18',
-    name: 'Granderby Jockey #18',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #18',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -305,8 +305,8 @@ export const NFTList = [
   },
   {
     id: '19',
-    name: 'Granderby Jockey #19',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #19',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -322,8 +322,8 @@ export const NFTList = [
 
   {
     id: '20',
-    name: 'Granderby Jockey #20',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #20',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'large' },
@@ -338,8 +338,8 @@ export const NFTList = [
   },
   {
     id: '21',
-    name: 'Granderby Jockey #21',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #21',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -354,8 +354,8 @@ export const NFTList = [
   },
   {
     id: '22',
-    name: 'Granderby Jockey #22',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #22',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -370,8 +370,8 @@ export const NFTList = [
   },
   {
     id: '23',
-    name: 'Granderby Jockey #23',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #23',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -386,8 +386,8 @@ export const NFTList = [
   },
   {
     id: '24',
-    name: 'Granderby Jockey #24',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #24',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -402,8 +402,8 @@ export const NFTList = [
   },
   {
     id: '25',
-    name: 'Granderby Jockey #25',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #25',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -418,8 +418,8 @@ export const NFTList = [
   },
   {
     id: '26',
-    name: 'Granderby Jockey #26',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #26',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -434,8 +434,8 @@ export const NFTList = [
   },
   {
     id: '27',
-    name: 'Granderby Jockey #27',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #27',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -450,8 +450,8 @@ export const NFTList = [
   },
   {
     id: '28',
-    name: 'Granderby Jockey #28',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #28',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -466,8 +466,8 @@ export const NFTList = [
   },
   {
     id: '29',
-    name: 'Granderby Jockey #29',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #29',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -483,8 +483,8 @@ export const NFTList = [
 
   {
     id: '30',
-    name: 'Granderby Jockey #30',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #30',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'large' },
@@ -499,8 +499,8 @@ export const NFTList = [
   },
   {
     id: '31',
-    name: 'Granderby Jockey #31',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #31',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -515,8 +515,8 @@ export const NFTList = [
   },
   {
     id: '32',
-    name: 'Granderby Jockey #32',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #32',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -531,8 +531,8 @@ export const NFTList = [
   },
   {
     id: '33',
-    name: 'Granderby Jockey #33',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #33',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -547,8 +547,8 @@ export const NFTList = [
   },
   {
     id: '34',
-    name: 'Granderby Jockey #34',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #34',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -563,8 +563,8 @@ export const NFTList = [
   },
   {
     id: '35',
-    name: 'Granderby Jockey #35',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #35',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -579,8 +579,8 @@ export const NFTList = [
   },
   {
     id: '36',
-    name: 'Granderby Jockey #36',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #36',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -595,8 +595,8 @@ export const NFTList = [
   },
   {
     id: '37',
-    name: 'Granderby Jockey #37',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #37',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -611,8 +611,8 @@ export const NFTList = [
   },
   {
     id: '38',
-    name: 'Granderby Jockey #38',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #38',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
@@ -627,8 +627,8 @@ export const NFTList = [
   },
   {
     id: '39',
-    name: 'Granderby Jockey #39',
-    description: 'Granderby NFT Jockeys',
+    name: 'Freedom Jockey #39',
+    description: 'Freedom NFT Jockeys',
     image: 'https://granderby.io/nft/jockey/jockey.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },

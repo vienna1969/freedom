@@ -147,7 +147,7 @@ const CreatePage: NextPageWithLayout = () => {
 
   return (
     <>
-      <NextSeo title="Create" description="Granderby - Web3 NFT Game" />
+      <NextSeo title="Create" description="Freedom - Web3 NFT Game" />
 
       <form onSubmit={(e) => handleCreateListing(e)}>
         <div className=" flex flex-row text-lime-600 ">
