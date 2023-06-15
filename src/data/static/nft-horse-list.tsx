@@ -19,7 +19,7 @@ export const NFTList = [
     id: '1',
     name: 'Freedom Horse #1',
     description: 'Freedom NFT',
-    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -35,7 +35,7 @@ export const NFTList = [
     id: '2',
     name: 'Freedom Horse #2',
     description: 'Freedom NFT',
-    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -51,7 +51,7 @@ export const NFTList = [
     id: '3',
     name: 'Freedom Horse #3',
     description: 'Freedom NFT',
-    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -67,7 +67,7 @@ export const NFTList = [
     id: '4',
     name: 'Freedom Horse #4',
     description: 'Freedom NFT',
-    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006004.png',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -83,7 +83,7 @@ export const NFTList = [
     id: '5',
     name: 'Freedom Horse #5',
     description: 'Freedom NFT',
-    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006005.png',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -99,7 +99,7 @@ export const NFTList = [
     id: '6',
     name: 'Freedom Horse #6',
     description: 'Freedom NFT',
-    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006006.png',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -115,7 +115,7 @@ export const NFTList = [
     id: '7',
     name: 'Freedom Horse #7',
     description: 'Freedom NFT',
-    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006007.png',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -131,7 +131,7 @@ export const NFTList = [
     id: '8',
     name: 'Freedom Horse #8',
     description: 'Freedom NFT',
-    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006008.png',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -147,7 +147,7 @@ export const NFTList = [
     id: '9',
     name: 'Freedom Horse #9',
     description: 'Freedom NFT',
-    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006009.png',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
