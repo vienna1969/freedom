@@ -1,9 +1,9 @@
 export const NFTList = [
   {
     id: '0',
-    name: 'Granderby Horse #0',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #0',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'large' },
       { trait_type: 'Age', value: 42 },
@@ -17,9 +17,9 @@ export const NFTList = [
   },
   {
     id: '1',
-    name: 'Granderby Horse #1',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #1',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -33,9 +33,9 @@ export const NFTList = [
   },
   {
     id: '2',
-    name: 'Granderby Horse #2',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #2',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -49,9 +49,9 @@ export const NFTList = [
   },
   {
     id: '3',
-    name: 'Granderby Horse #3',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #3',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -65,9 +65,9 @@ export const NFTList = [
   },
   {
     id: '4',
-    name: 'Granderby Horse #4',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006004.png',
+    name: 'Freedom Horse #4',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006004.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -81,9 +81,9 @@ export const NFTList = [
   },
   {
     id: '5',
-    name: 'Granderby Horse #5',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006005.png',
+    name: 'Freedom Horse #5',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006005.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -97,9 +97,9 @@ export const NFTList = [
   },
   {
     id: '6',
-    name: 'Granderby Horse #6',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006006.png',
+    name: 'Freedom Horse #6',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006006.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -113,9 +113,9 @@ export const NFTList = [
   },
   {
     id: '7',
-    name: 'Granderby Horse #7',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006007.png',
+    name: 'Freedom Horse #7',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006007.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -129,9 +129,9 @@ export const NFTList = [
   },
   {
     id: '8',
-    name: 'Granderby Horse #8',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006008.png',
+    name: 'Freedom Horse #8',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006008.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -145,9 +145,9 @@ export const NFTList = [
   },
   {
     id: '9',
-    name: 'Granderby Horse #9',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006009.png',
+    name: 'Freedom Horse #9',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006009.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -161,9 +161,9 @@ export const NFTList = [
   },
   {
     id: '10',
-    name: 'Granderby Horse #10',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #10',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'large' },
       { trait_type: 'Age', value: 42 },
@@ -177,9 +177,9 @@ export const NFTList = [
   },
   {
     id: '11',
-    name: 'Granderby Horse #11',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #11',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -193,9 +193,9 @@ export const NFTList = [
   },
   {
     id: '12',
-    name: 'Granderby Horse #12',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #12',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -209,9 +209,9 @@ export const NFTList = [
   },
   {
     id: '13',
-    name: 'Granderby Horse #13',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #13',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -225,9 +225,9 @@ export const NFTList = [
   },
   {
     id: '14',
-    name: 'Granderby Horse #14',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #14',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -241,9 +241,9 @@ export const NFTList = [
   },
   {
     id: '15',
-    name: 'Granderby Horse #15',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #15',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -257,9 +257,9 @@ export const NFTList = [
   },
   {
     id: '16',
-    name: 'Granderby Horse #16',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #16',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -273,9 +273,9 @@ export const NFTList = [
   },
   {
     id: '17',
-    name: 'Granderby Horse #17',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #17',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -289,9 +289,9 @@ export const NFTList = [
   },
   {
     id: '18',
-    name: 'Granderby Horse #18',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #18',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -305,9 +305,9 @@ export const NFTList = [
   },
   {
     id: '19',
-    name: 'Granderby Horse #19',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #19',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -322,9 +322,9 @@ export const NFTList = [
 
   {
     id: '20',
-    name: 'Granderby Horse #20',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #20',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'large' },
       { trait_type: 'Age', value: 42 },
@@ -338,9 +338,9 @@ export const NFTList = [
   },
   {
     id: '21',
-    name: 'Granderby Horse #21',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #21',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -354,9 +354,9 @@ export const NFTList = [
   },
   {
     id: '22',
-    name: 'Granderby Horse #22',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #22',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -370,9 +370,9 @@ export const NFTList = [
   },
   {
     id: '23',
-    name: 'Granderby Horse #23',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #23',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -386,9 +386,9 @@ export const NFTList = [
   },
   {
     id: '24',
-    name: 'Granderby Horse #24',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #24',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -402,9 +402,9 @@ export const NFTList = [
   },
   {
     id: '25',
-    name: 'Granderby Horse #25',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #25',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -418,9 +418,9 @@ export const NFTList = [
   },
   {
     id: '26',
-    name: 'Granderby Horse #26',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #26',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -434,9 +434,9 @@ export const NFTList = [
   },
   {
     id: '27',
-    name: 'Granderby Horse #27',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #27',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -450,9 +450,9 @@ export const NFTList = [
   },
   {
     id: '28',
-    name: 'Granderby Horse #28',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #28',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -466,9 +466,9 @@ export const NFTList = [
   },
   {
     id: '29',
-    name: 'Granderby Horse #29',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #29',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -483,9 +483,9 @@ export const NFTList = [
 
   {
     id: '30',
-    name: 'Granderby Horse #30',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #30',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'large' },
       { trait_type: 'Age', value: 42 },
@@ -499,9 +499,9 @@ export const NFTList = [
   },
   {
     id: '31',
-    name: 'Granderby Horse #31',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #31',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -515,9 +515,9 @@ export const NFTList = [
   },
   {
     id: '32',
-    name: 'Granderby Horse #32',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #32',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -531,9 +531,9 @@ export const NFTList = [
   },
   {
     id: '33',
-    name: 'Granderby Horse #33',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #33',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -547,9 +547,9 @@ export const NFTList = [
   },
   {
     id: '34',
-    name: 'Granderby Horse #34',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #34',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -563,9 +563,9 @@ export const NFTList = [
   },
   {
     id: '35',
-    name: 'Granderby Horse #35',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #35',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -579,9 +579,9 @@ export const NFTList = [
   },
   {
     id: '36',
-    name: 'Granderby Horse #36',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #36',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -595,9 +595,9 @@ export const NFTList = [
   },
   {
     id: '37',
-    name: 'Granderby Horse #37',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #37',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -611,9 +611,9 @@ export const NFTList = [
   },
   {
     id: '38',
-    name: 'Granderby Horse #38',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #38',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -627,9 +627,9 @@ export const NFTList = [
   },
   {
     id: '39',
-    name: 'Granderby Horse #39',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #39',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -644,9 +644,9 @@ export const NFTList = [
 
   {
     id: '40',
-    name: 'Granderby Horse #40',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #40',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'large' },
       { trait_type: 'Age', value: 42 },
@@ -660,9 +660,9 @@ export const NFTList = [
   },
   {
     id: '41',
-    name: 'Granderby Horse #41',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #41',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -676,9 +676,9 @@ export const NFTList = [
   },
   {
     id: '42',
-    name: 'Granderby Horse #42',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #42',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -692,9 +692,9 @@ export const NFTList = [
   },
   {
     id: '43',
-    name: 'Granderby Horse #43',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #43',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -708,9 +708,9 @@ export const NFTList = [
   },
   {
     id: '44',
-    name: 'Granderby Horse #44',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #44',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -724,9 +724,9 @@ export const NFTList = [
   },
   {
     id: '45',
-    name: 'Granderby Horse #45',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #45',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -740,9 +740,9 @@ export const NFTList = [
   },
   {
     id: '46',
-    name: 'Granderby Horse #46',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #46',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -756,9 +756,9 @@ export const NFTList = [
   },
   {
     id: '47',
-    name: 'Granderby Horse #47',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #47',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -772,9 +772,9 @@ export const NFTList = [
   },
   {
     id: '48',
-    name: 'Granderby Horse #48',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #48',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -788,9 +788,9 @@ export const NFTList = [
   },
   {
     id: '49',
-    name: 'Granderby Horse #49',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #49',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -805,9 +805,9 @@ export const NFTList = [
 
   {
     id: '50',
-    name: 'Granderby Horse #50',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #50',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'large' },
       { trait_type: 'Age', value: 42 },
@@ -821,9 +821,9 @@ export const NFTList = [
   },
   {
     id: '51',
-    name: 'Granderby Horse #51',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #51',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -837,9 +837,9 @@ export const NFTList = [
   },
   {
     id: '52',
-    name: 'Granderby Horse #52',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #52',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -853,9 +853,9 @@ export const NFTList = [
   },
   {
     id: '53',
-    name: 'Granderby Horse #53',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #53',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -869,9 +869,9 @@ export const NFTList = [
   },
   {
     id: '54',
-    name: 'Granderby Horse #54',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #54',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -885,9 +885,9 @@ export const NFTList = [
   },
   {
     id: '55',
-    name: 'Granderby Horse #55',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #55',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -901,9 +901,9 @@ export const NFTList = [
   },
   {
     id: '56',
-    name: 'Granderby Horse #56',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #56',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -917,9 +917,9 @@ export const NFTList = [
   },
   {
     id: '57',
-    name: 'Granderby Horse #57',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #57',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -933,9 +933,9 @@ export const NFTList = [
   },
   {
     id: '58',
-    name: 'Granderby Horse #58',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #58',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -949,9 +949,9 @@ export const NFTList = [
   },
   {
     id: '59',
-    name: 'Granderby Horse #59',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006000.png',
+    name: 'Freedom Horse #59',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/freedom.jpeg',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -966,9 +966,9 @@ export const NFTList = [
 
   {
     id: '60',
-    name: 'Granderby Horse #60',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #60',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'large' },
       { trait_type: 'Age', value: 42 },
@@ -982,9 +982,9 @@ export const NFTList = [
   },
   {
     id: '61',
-    name: 'Granderby Horse #61',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #61',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -998,9 +998,9 @@ export const NFTList = [
   },
   {
     id: '62',
-    name: 'Granderby Horse #62',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #62',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1014,9 +1014,9 @@ export const NFTList = [
   },
   {
     id: '63',
-    name: 'Granderby Horse #63',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #63',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1030,9 +1030,9 @@ export const NFTList = [
   },
   {
     id: '64',
-    name: 'Granderby Horse #64',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #64',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1046,9 +1046,9 @@ export const NFTList = [
   },
   {
     id: '65',
-    name: 'Granderby Horse #65',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #65',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1062,9 +1062,9 @@ export const NFTList = [
   },
   {
     id: '66',
-    name: 'Granderby Horse #66',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #66',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1078,9 +1078,9 @@ export const NFTList = [
   },
   {
     id: '67',
-    name: 'Granderby Horse #67',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #67',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1094,9 +1094,9 @@ export const NFTList = [
   },
   {
     id: '68',
-    name: 'Granderby Horse #68',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #68',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1110,9 +1110,9 @@ export const NFTList = [
   },
   {
     id: '69',
-    name: 'Granderby Horse #69',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006001.png',
+    name: 'Freedom Horse #69',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006001.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1127,9 +1127,9 @@ export const NFTList = [
 
   {
     id: '70',
-    name: 'Granderby Horse #70',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #70',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'large' },
       { trait_type: 'Age', value: 42 },
@@ -1143,9 +1143,9 @@ export const NFTList = [
   },
   {
     id: '71',
-    name: 'Granderby Horse #71',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #71',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1159,9 +1159,9 @@ export const NFTList = [
   },
   {
     id: '72',
-    name: 'Granderby Horse #72',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #72',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1175,9 +1175,9 @@ export const NFTList = [
   },
   {
     id: '73',
-    name: 'Granderby Horse #73',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #73',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1191,9 +1191,9 @@ export const NFTList = [
   },
   {
     id: '74',
-    name: 'Granderby Horse #74',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #74',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1207,9 +1207,9 @@ export const NFTList = [
   },
   {
     id: '75',
-    name: 'Granderby Horse #75',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #75',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1223,9 +1223,9 @@ export const NFTList = [
   },
   {
     id: '76',
-    name: 'Granderby Horse #76',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #76',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1239,9 +1239,9 @@ export const NFTList = [
   },
   {
     id: '77',
-    name: 'Granderby Horse #77',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #77',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1255,9 +1255,9 @@ export const NFTList = [
   },
   {
     id: '78',
-    name: 'Granderby Horse #78',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #78',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
@@ -1271,9 +1271,9 @@ export const NFTList = [
   },
   {
     id: '79',
-    name: 'Granderby Horse #69',
-    description: 'Granderby NFT Horses',
-    image: 'https://granderby.io/nft/horse/Hrs_00006002.png',
+    name: 'Freedom Horse #69',
+    description: 'Freedom NFT',
+    image: 'https://freedom-horse.vercel.app/nft/horse/Hrs_00006002.png',
     attributes: [
       { trait_type: 'Size', value: 'small' },
       { trait_type: 'Age', value: 23 },
