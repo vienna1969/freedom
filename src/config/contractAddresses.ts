@@ -7,7 +7,7 @@
 //export const nftDropContractAddressHorse = '0xd80c851aC4d8801dCa339d8cd05Ca5c3aCA245Cd';
 
 export const nftDropContractAddressHorse =
-  '0x41FBA0bd9f4DC9a968a10aEBb792af6A09969F60';
+  '0xe76d2224F6ae6c2fD120CD228E4d84AFfCDA1132';
 
 export const nftDropContractAddressJockey =
   '0x4B63DE411e6706b9F9a99bAcE8f810e394710AE7';
